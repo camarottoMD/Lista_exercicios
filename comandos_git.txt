@@ -1,0 +1,14 @@
+para iniciar repostirio
+git init
+(somente a primeira vez)
+
+verificar como está o projeto
+git status
+
+adicionar os arquivos na arvore git
+git add .
+ou
+git add ex1.py ex2.py
+
+comitar (commit) na arvore git -> gravar um ponto no espaco
+git commit -m "mensagem que representa o seu commit"
